@@ -6,7 +6,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/AndrewKim2807"><img alt="My Github" src="https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/tanubrataandrew/"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white"></a>
 
 <br/>
 
